@@ -40,7 +40,7 @@ class BDLivrosOpenHelper(
      *
      * @param db The database.
      * @param oldVersion The old database version.
-     * @param newVersion The new da  tabase version.
+     * @param newVersion The new da  tabase version.  
      */
     override fun onUpgrade(db: SQLiteDatabase?, oldVersion: Int, newVersion: Int) {
         TODO("Not yet implemented")
